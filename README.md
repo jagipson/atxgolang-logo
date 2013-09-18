@@ -7,7 +7,7 @@ Group](http://www.meetup.com/atxgolang/).
 following sources:
 
 - `gopher.svg` was created by converting
-  [this](http://golang.org/doc/gopher/gopherbw.png) (Creative Commons
+  [gopherbw.png](http://golang.org/doc/gopher/gopherbw.png) (Creative Commons
   Attribution 3.0 License) to SVG format using
   [potrace](http://potrace.sourceforge.net/).
 
